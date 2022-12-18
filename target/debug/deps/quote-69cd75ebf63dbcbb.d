@@ -1,0 +1,13 @@
+/home/hvu/IdeaProjects/Rustlings/target/debug/deps/quote-69cd75ebf63dbcbb.rmeta: /home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/lib.rs /home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ext.rs /home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/format.rs /home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ident_fragment.rs /home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/to_tokens.rs /home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/runtime.rs /home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/spanned.rs
+
+/home/hvu/IdeaProjects/Rustlings/target/debug/deps/libquote-69cd75ebf63dbcbb.rlib: /home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/lib.rs /home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ext.rs /home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/format.rs /home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ident_fragment.rs /home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/to_tokens.rs /home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/runtime.rs /home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/spanned.rs
+
+/home/hvu/IdeaProjects/Rustlings/target/debug/deps/quote-69cd75ebf63dbcbb.d: /home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/lib.rs /home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ext.rs /home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/format.rs /home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ident_fragment.rs /home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/to_tokens.rs /home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/runtime.rs /home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/spanned.rs
+
+/home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/lib.rs:
+/home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ext.rs:
+/home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/format.rs:
+/home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ident_fragment.rs:
+/home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/to_tokens.rs:
+/home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/runtime.rs:
+/home/hvu/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/spanned.rs:

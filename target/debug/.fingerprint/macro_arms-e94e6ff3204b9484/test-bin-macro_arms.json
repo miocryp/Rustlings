@@ -1,0 +1,1 @@
+{"rustc":4078849139227980317,"features":"[]","target":18341133580746260275,"profile":1021633075455700787,"path":2851308667857588195,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/macro_arms-e94e6ff3204b9484/dep-test-bin-macro_arms"}}],"rustflags":["-Adead_code","-Aunused_variables"],"metadata":7797948686568424061,"config":2202906307356721367,"compile_kind":0}
